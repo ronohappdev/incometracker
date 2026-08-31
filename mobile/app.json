@@ -1,0 +1,1 @@
+{ "expo": { "name": "Income Gap Tracker", "slug": "income-gap-tracker", "scheme": "income-gap", "plugins": ["expo-router", "expo-secure-store"] } }

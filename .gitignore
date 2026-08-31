@@ -1,0 +1,11 @@
+.env
+.venv/
+*.egg-info/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.py[cod]
+income_gap.db
+node_modules/
+.expo/
+dist/
